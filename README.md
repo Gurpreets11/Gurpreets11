@@ -56,6 +56,17 @@ I’m driven by a deep curiosity for creating efficient, scalable, and high-perf
 
 ---
 
+## 🛠 Tools & Technologies
+![Kotlin](https://img.shields.io/badge/Kotlin-blue.svg)
+![Java](https://img.shields.io/badge/Java-007396.svg)
+![Flutter](https://img.shields.io/badge/Flutter-02569B.svg)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg)
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg)
+![Git](https://img.shields.io/badge/Git-F05033.svg)
+
+---
+
+
 ### 📫 Get In Touch
 
 - **Email**: [java.preetsingh@gmail.com](mailto:your-email@example.com)
