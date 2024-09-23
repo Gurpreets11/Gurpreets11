@@ -71,7 +71,7 @@ I’m driven by a deep curiosity for creating efficient, scalable, and high-perf
 
 - **Email**: [Gurpreet](mailto:java.preetsingh@gmail.com)
 - **LinkedIn**: [gurpreets11](https://www.linkedin.com/in/gurpreets11/)
-- **GitHub**: [GurpreetAndroid](https://github.com/GurpreetAndroid)
+- **GitHub**: [Gurpreets11](https://github.com/Gurpreets11)
 
 
 ---
