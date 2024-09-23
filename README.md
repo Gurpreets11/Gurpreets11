@@ -69,7 +69,7 @@ I’m driven by a deep curiosity for creating efficient, scalable, and high-perf
 
 ### 📫 Get In Touch
 
-- **Email**: [java.preetsingh@gmail.com](mailto:your-email@example.com)
+- **Email**: [Gurpreet](mailto:java.preetsingh@gmail.com)
 - **LinkedIn**: [gurpreets11](https://www.linkedin.com/in/gurpreets11/)
 - **GitHub**: [GurpreetAndroid](https://github.com/GurpreetAndroid)
 
