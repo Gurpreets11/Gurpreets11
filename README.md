@@ -82,6 +82,7 @@ I’m driven by a deep curiosity for creating efficient, scalable, and high-perf
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurpreets11&layout=compact&theme=radical)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gurpreets11&" alt="Gurpreets11" /></p>
 
 <!--
 **GurpreetAndroid/GurpreetAndroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
