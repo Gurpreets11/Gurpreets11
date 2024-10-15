@@ -85,6 +85,18 @@ I’m driven by a deep curiosity for creating efficient, scalable, and high-perf
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurpreets11&layout=compact&theme=radical)
 
 
+
+### 🎖 Certifications 
+
+<img src="https://www.credly.com/badges/eda5c197-ee9d-4cf1-aec3-b9863b4e5ee1/public_url" height=250 width=250>
+
+
+<img src="https://www.credly.com/badges/eda5c197-ee9d-4cf1-aec3-b9863b4e5ee1/public_url" height=250 width=250>
+
+
+
+
+
 <!--
 
 
