@@ -88,11 +88,12 @@ I’m driven by a deep curiosity for creating efficient, scalable, and high-perf
 
 ### 🎖 Certifications 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2635a096-d694-47a0-94c2-a4d378cc9f43" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img src="https://images.credly.com/size/340x340/images/2635a096-d694-47a0-94c2-a4d378cc9f43/image.png" height=250 width=250>
+
+<img src="https://images.credly.com/size/340x340/images/eda5c197-ee9d-4cf1-aec3-b9863b4e5ee1/image.png" height=250 width=250>
 
 
-<img src="https://www.credly.com/badges/eda5c197-ee9d-4cf1-aec3-b9863b4e5ee1/public_url" height=250 width=250>
-
+ 
 
 
 
