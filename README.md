@@ -86,7 +86,7 @@ I’m driven by a deep curiosity for creating efficient, scalable, and high-perf
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurpreets11&layout=compact&theme=radical)
 
 
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-USER_NAME-blue?logo=stackoverflow)](https://stackoverflow.com/users/gurpreets11)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Gurpreets11-blue?logo=stackoverflow)](https://stackoverflow.com/users/gurpreets11)
 
 
 <!--
