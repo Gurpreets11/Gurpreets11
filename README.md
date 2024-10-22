@@ -87,7 +87,7 @@ I’m driven by a deep curiosity for creating efficient, scalable, and high-perf
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Gurpreets11-blue?logo=stackoverflow)](https://stackoverflow.com/users/1117424)
 -->
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?border=true?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 [![Gurpreet Singh StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1117424&theme=dark)](https://stackoverflow.com/users/1117424/gurpreets11)
 
