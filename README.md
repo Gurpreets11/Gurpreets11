@@ -89,6 +89,9 @@ I’m driven by a deep curiosity for creating efficient, scalable, and high-perf
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Gurpreets11-blue?logo=stackoverflow)](https://stackoverflow.com/users/1117424)
 
 
+[![Gurpreet Singh StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1117424)](https://stackoverflow.com/users/1117424/gurpreets11)
+
+
 <!--
 ### 🎖 Certifications 
 
