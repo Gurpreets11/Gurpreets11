@@ -67,15 +67,7 @@ I’m driven by a deep curiosity for creating efficient, scalable, and high-perf
 ---
 
 
-### 📫 Get In Touch
 
-- **Email**: [Gurpreet](mailto:java.preetsingh@gmail.com)
-- **LinkedIn**: [gurpreets11](https://www.linkedin.com/in/gurpreets11/)
-- **GitHub**: [Gurpreets11](https://github.com/Gurpreets11)
-- **StackOverflow**: [Gurpreets11](https://stackoverflow.com/users/1117424/gurpreets11)
-
-
----
 
 ### 📊 GitHub Stats
 
@@ -95,6 +87,17 @@ I’m driven by a deep curiosity for creating efficient, scalable, and high-perf
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gurpreets11&theme=onedark)](https://github.com/Gurpreets11/github-profile-trophy)
 
+---
+
+### 📫 Get In Touch
+
+- **Email**: [Gurpreet](mailto:java.preetsingh@gmail.com)
+- **LinkedIn**: [gurpreets11](https://www.linkedin.com/in/gurpreets11/)
+- **GitHub**: [Gurpreets11](https://github.com/Gurpreets11)
+- **StackOverflow**: [Gurpreets11](https://stackoverflow.com/users/1117424/gurpreets11)
+
+
+---
 
 <!--
 <details>
