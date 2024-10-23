@@ -89,7 +89,25 @@ I’m driven by a deep curiosity for creating efficient, scalable, and high-perf
 
 [![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
+
 </div>
+
+
+
+<!--
+<details>
+  <summary><h2> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
+  <p>
+    <i>You can reach out to me via</i>
+    <a href="mailto:[your-email]">
+      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Gmail.gif" width="100"/>
+    </a>
+  </p>
+</details>
+-->
+
+
+
 <!--
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Gurpreets11-blue?logo=stackoverflow)](https://stackoverflow.com/users/1117424)
 -->
