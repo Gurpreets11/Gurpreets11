@@ -95,8 +95,9 @@ I’m driven by a deep curiosity for creating efficient, scalable, and high-perf
 [![Gurpreet Singh StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1117424&theme=dark)](https://stackoverflow.com/users/1117424/gurpreets11)
 -->
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurpreets11)](https://github.com/Gurpreets11/github-readme-stats)
+-->
 
 <!--
 ### 🎖 Certifications 
