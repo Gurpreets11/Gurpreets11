@@ -79,7 +79,9 @@ I’m driven by a deep curiosity for creating efficient, scalable, and high-perf
 
 ### 📊 GitHub Stats
 
-![Top Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gurpreets11&theme=radical)  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gurpreets11&show_icons=true&theme=radical)  
+![Top Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gurpreets11&theme=radical) 
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gurpreets11&show_icons=true&theme=radical)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurpreets11&layout=compact&theme=radical)
 
