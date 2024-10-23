@@ -89,8 +89,9 @@ I’m driven by a deep curiosity for creating efficient, scalable, and high-perf
 
 [![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
+<!--
 [![Gurpreet Singh StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1117424&theme=dark)](https://stackoverflow.com/users/1117424/gurpreets11)
-
+-->
 
 <!--
 ### 🎖 Certifications 
