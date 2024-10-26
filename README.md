@@ -84,9 +84,9 @@ I’m driven by a deep curiosity for creating efficient, scalable, and high-perf
 
 </div>
 
- <!--
+ 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gurpreets11&theme=onedark)](https://github.com/Gurpreets11/github-profile-trophy)
- -->
+ 
 ---
 
 ### 📫 Get In Touch
