@@ -97,6 +97,10 @@ I’m driven by a deep curiosity for creating efficient, scalable, and high-perf
 - **StackOverflow**: [Gurpreets11](https://stackoverflow.com/users/1117424/gurpreets11)
 
 
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gurpreets_11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gurpreets11) 
+
 ---
 
 <!--
