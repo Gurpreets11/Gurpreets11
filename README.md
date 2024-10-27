@@ -98,6 +98,9 @@ I’m driven by a deep curiosity for creating efficient, scalable, and high-perf
 - **Instagram**: [gurpreets_11](https://www.instagram.com/gurpreets_11/)
 
 
+---
+[![](https://visitcount.itsvg.in/api?id=Gurpreets11&icon=2&color=10)](https://visitcount.itsvg.in)
+
 <!--
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gurpreets_11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gurpreets11) 
