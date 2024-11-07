@@ -71,73 +71,54 @@ I’m driven by a deep curiosity for creating efficient, scalable, and high-perf
 ### Tools & Technologies
 
 #### Languages
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-- ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 #### Frameworks & Libraries
-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-- ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-- ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-- ![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=flat&logo=material-design&logoColor=white)
-- ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=flat&logo=material-design&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white)
 
 #### Development Tools
-- ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-- ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
-- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 #### Databases & Storage
-- ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-- ![Firebase Firestore](https://img.shields.io/badge/Firebase%20Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Firebase Firestore](https://img.shields.io/badge/Firebase%20Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 #### Cloud & Backend
-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-- ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-- ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-- ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-- ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 #### APIs & Networking
-- ![Retrofit](https://img.shields.io/badge/Retrofit-00688B?style=flat&logo=retrofit&logoColor=white)
-- ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-- ![REST](https://img.shields.io/badge/REST-FF6C37?style=flat&logo=rest&logoColor=white)
-- ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-00688B?style=flat&logo=retrofit&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![REST](https://img.shields.io/badge/REST-FF6C37?style=flat&logo=rest&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 #### Testing
-- ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
-- ![Mockito](https://img.shields.io/badge/Mockito-FFCA28?style=flat&logo=mockito&logoColor=white)
-- ![Espresso](https://img.shields.io/badge/Espresso-000000?style=flat&logo=android&logoColor=white)
-- ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
-- ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-
-#### CI/CD & Automation
-- ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-- ![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF?style=flat&logo=travis-ci&logoColor=white)
-- ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-FFCA28?style=flat&logo=mockito&logoColor=white)
+![Espresso](https://img.shields.io/badge/Espresso-000000?style=flat&logo=android&logoColor=white)
 
 #### Other Tools & Utilities
-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-- ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-- ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
-- ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
 
 
