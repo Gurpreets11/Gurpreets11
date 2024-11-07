@@ -84,6 +84,10 @@ I’m driven by a deep curiosity for creating efficient, scalable, and high-perf
 
 </div>
 
+
+<img width="600" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurpreets11&layout=compact&theme=tokyonight&hide_progress=true&langs_count=40&count_private=true"></img>
+
+
   <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gurpreets11&theme=onedark)](https://github.com/Gurpreets11/github-profile-trophy)
  -->
