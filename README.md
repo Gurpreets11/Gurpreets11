@@ -77,17 +77,15 @@ I’m driven by a deep curiosity for creating efficient, scalable, and high-perf
 
 ![Top Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gurpreets11&theme=radical) 
 
+<!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurpreets11&layout=compact&theme=radical)
-
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/Gurpreets11/github-readme-quotes)
+ -->
 
 <img width="600" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurpreets11&layout=compact&theme=radical&langs_count=40&count_private=true"></img>
 
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/Gurpreets11/github-readme-quotes)
+
 </div>
-
-
-<img width="600" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurpreets11&layout=compact&theme=radical&hide_progress=true&langs_count=40&count_private=true"></img>
-
 
   <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gurpreets11&theme=onedark)](https://github.com/Gurpreets11/github-profile-trophy)
